@@ -1,3 +1,4 @@
 Flask==2.0.1
 folium==0.12.1
 requests==2.26.0
+shapely==1.8.0
